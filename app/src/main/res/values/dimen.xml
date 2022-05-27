@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vertical_margin">8dp</dimen>
+    <dimen name="divider_height">8dp</dimen>
+    <dimen name="image_view_width">160dp</dimen>
+    <dimen name="image_view_height">100dp</dimen>
+</resources>
